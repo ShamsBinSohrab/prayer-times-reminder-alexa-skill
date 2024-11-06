@@ -1,4 +1,4 @@
-package org.muslim;
+package org.muslim.handlers;
 
 
 import com.amazon.ask.dispatcher.request.handler.HandlerInput;
